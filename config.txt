@@ -1,0 +1,12 @@
+This Computer Name{
+Computer1
+}
+Server IP_1{
+172.23.145.66
+}
+Server IP_2{
+10.0.2.110
+}
+Server Port{
+6666
+}
